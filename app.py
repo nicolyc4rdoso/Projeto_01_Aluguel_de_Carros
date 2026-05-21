@@ -1,7 +1,7 @@
 import streamlit as st
 st.write("ARMY - Aluguel De Carros")
 st.sidebar.title("buick super")
-st.sidebar.image("ARMY.png")
+st.sidebar.image("army.png")
 
 carros = ["Buick super","ferrari","chevrolet bel air","Lamborghini","mclaren"]
 
